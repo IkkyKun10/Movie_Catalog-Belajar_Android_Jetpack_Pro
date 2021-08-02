@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fav_destinasi"
+        android:icon="@drawable/favorite"
+        android:title="@string/menu_favorite"
+        app:showAsAction="always"/>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/action_asc"
+            android:checked="false"
+            android:title="@string/sort_a_z" />
+        <item
+            android:id="@+id/action_desc"
+            android:checked="false"
+            android:title="@string/sort_z_a" />
+        <item
+            android:id="@+id/action_default"
+            android:checked="true"
+            android:title="@string/sort_default"/>
+
+    </group>
+
+</menu>

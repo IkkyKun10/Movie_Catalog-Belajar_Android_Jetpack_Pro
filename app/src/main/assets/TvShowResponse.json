@@ -1,0 +1,104 @@
+{
+  "tvShow": [
+    {
+      "tvShowId": "t1",
+      "title": "Arrow",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+      "date" : "2012",
+      "genre": "Kejahatan, Drama, Misteri, Aksi & Petualangan",
+      "description": "Arrow adalah menceritakan kembali petualangan dari legendaris DC pahlawan Green Arrow",
+      "kreator": "Greg Berlanti, Marc Guggenheim, Andrew Kreisberg",
+      "score": "66"
+    },
+    {
+      "tvShowId": "t2",
+      "title": "Fairy Tale",
+      "image": "https://i.pinimg.com/564x/0c/8f/93/0c8f938bcae31f5ecfb1fafd6818ad68.jpg",
+      "date": "2009",
+      "genre": "Action, Adventure, Comedy, Magic, Fantasy, Shounen",
+      "description": "In the mystical land of Fiore, magic exists as an essential part of everyday life. Countless magic guilds lie at the core of all magical activity, and serve as venues for like-minded mages to band together and take on job requests. Among them, Fairy Tail stands out from the rest as a place of strength, spirit, and family Lucy Heartfilia is a young mage searching for celestial gate keys, and her dream is to become a full-fledged wizard by joining this famous guild. In her search, she runs into Natsu Dragneel and his partner Happy, who are on a quest to find Natsu's foster father, the dragon Igneel Upon being tricked by a man, Lucy falls under an abduction attempt, only to be saved by Natsu. To her shock, he reveals that he is a member of Fairy Tail and invites her to join them. There, Lucy meets the guild's strange members, such as the ice wizard Gray Fullbuster and magic swordswoman Erza Scarlet. Together as a family, they battle the forces of evil, help those in need, and gain new friends, all the while enjoying the never-ending adventure that is Fairy Tail.Greg Berlanti, Marc Guggenheim, Andrew Kreisberg",
+      "kreator": "Satelight, A-1 Pictures",
+      "score": "76"
+    },
+    {
+      "tvShowId": "t3",
+      "title": "The Flash",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4YaerJEQtWrAMPwjDZArSxhL3fC.jpg",
+      "date": "2014",
+      "genre": "Drama, Sci-fi & Fantasy",
+      "description": "Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya \"manusia meta\" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat, tetapi tidak lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash.",
+      "kreator": "Greg Berlanti, Geoff Johns, Andrew Kreisberg",
+      "score": "76"
+    },
+    {
+      "tvShowId": "t4",
+      "title": "Game Of Throne",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bk7SJsNtVP97faavetnurgXdrOF.jpg",
+      "date": "2011",
+      "genre": "Sci-fi & Fantasy, Drama, Aksi & Petualangan",
+      "description": "Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh. Semua sementara kejahatan yang sangat kuno terbangun di utara terjauh. Di tengah-tengah perang, perintah militer yang diabaikan, Night's Watch, adalah yang berdiri di antara alam manusia dan kengerian es di luarnya David Benioff Greg Berlanti, Marc Guggenheim, Andrew Kreisberg",
+      "kreator": "David Benioff, D. B. Weiss",
+      "score": "84"
+    },
+    {
+      "tvShowId": "t5",
+      "title": "Gotham",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jbJLks2YTBv7HeahdfkeeIuYpc.jpg",
+      "date": "2014",
+      "genre": "Drama, Kejahatan, Sci-fi & Fantasy",
+      "description": "Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?",
+      "kreator": "Bruno Heller",
+      "score": "75"
+    },
+    {
+      "tvShowId": "t6",
+      "title": "Hanna",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toQzJUE9VM3erjs1f5sn6Aa4deL.jpg",
+      "date": "2019",
+      "genre": "Aksi & Petualangan, Drama",
+      "description": "This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.",
+      "kreator": "David Farr",
+      "score": "75"
+    },
+    {
+      "tvShowId": "t7",
+      "title": "Iron Fish",
+      "image": "https://www.sanity.com.au/media/Images/fullimage/484582/SDC_1401408_2018-20-11--16-14-19.jpg",
+      "date": "2017",
+      "genre": "Aksi & Petualangan, Drama, Sci-fi & Fantasy",
+      "description": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+      "kreator": "Scott Buck",
+      "score": "65"
+    },
+    {
+      "tvShowId": "t8",
+      "title": "Naruto Shippuden",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JGx8nRdsMWB6crJtIqRBteK5V3.jpg",
+      "date": "2007",
+      "genre": "Keluarga, Aksi, Animasi, Petualangan, Fantasi",
+      "description": "Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.",
+      "kreator": "Hajime Kamegaki",
+      "score": "84"
+    },
+    {
+      "tvShowId": "t9",
+      "title": "Super Girl",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m25hItTmnC4l12hsKU1fNuo4Grc.jpg",
+      "date": "2015",
+      "genre": "Drama, Sci-fi & Fantasy, Aksi & Petualangan",
+      "description": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+      "kreator": "Greg Berlanti, Ali Adler, Andrew Kreisberg",
+      "score": "72"
+    },
+    {
+      "tvShowId": "t10",
+      "title": "The Walking Dead",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+      "date": "2010",
+      "genre": "Aksi & Petualangan, Drama, Sci-fi & Fantasy",
+      "description": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+      "kreator": "Frank Darabont",
+      "score": "80"
+    }
+  ]
+}

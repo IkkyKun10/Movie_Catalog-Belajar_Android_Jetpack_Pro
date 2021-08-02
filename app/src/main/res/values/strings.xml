@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_detail_movies">DetailMovies</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="time_release">Tahun Rilis :</string>
+    <string name="genre">Genre :</string>
+    <string name="director">Director :</string>
+    <string name="score">Rating Film :</string>
+    <string name="movie_show">Movies Show</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="time_date">yy/mm/dd</string>
+    <string name="genre_example">fantasy, comedy, action</string>
+    <string name="director_example">Onyakopon</string>
+    <string name="score_example">70 IMDB</string>
+    <string name="desc_example">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="ss_text">MOVIES AND TVSHOW</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="sort_a_z">Sort A-Z</string>
+    <string name="sort_z_a">Sort Z-A</string>
+    <string name="sort_random">Sort Random</string>
+    <string name="sort_default">Sort Default</string>
+</resources>
